@@ -19,13 +19,13 @@
     }
 
     .page-content {
-      color: rgb(80, 176, 255);
+      color: blue (80, 176, 255);
       font-family: Helvetica, Arial, sans-serif;
       font-size:  1.25rem;
     }
 
     .page-content-answer {
-      color: rgb(165, 80, 255);
+      color: purple (165, 80, 255);
       font-family: Helvetica, Arial, sans-serif;
       font-size:  1.25rem;
     }
