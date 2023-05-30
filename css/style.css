@@ -1,5 +1,5 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Rachel Oromo
+* Created on: March 2023
 * This file contains the CSS for index.html
 */
 
@@ -15,17 +15,17 @@
 }
 
 .mdl-textfield__error {
-  color: rgb(255, 255, 255);
+  color: rgb(49, 49, 49);
 }
 
 .page-content {
-  color: rgb(80, 162, 255);
+  color: rgb(80, 176, 255);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 .page-content-answer {
-  color: rgb(151, 151, 151);
+  color: rgb(165, 80, 255);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
@@ -37,7 +37,7 @@
 }
 
 body {
-  background-color: rgb(0, 0, 0);
+  background-color: gray;
 }
 
 img {
